@@ -1,2 +1,4 @@
 name: Eli Baldwin, Good Geographer
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
